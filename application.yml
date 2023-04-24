@@ -1,7 +1,5 @@
-spring:
- application:
-   name: adarshpandey
 
+eureka:
    client:
      fetch-registry: true
      register-with-eureka: true
